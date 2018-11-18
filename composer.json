@@ -1,0 +1,10 @@
+{
+    "name": "rn/git-test",
+    "authors": [
+        {
+            "name": "Matfey2",
+            "email": "nsvadba@gmail.com"
+        }
+    ],
+    "require": {}
+}
